@@ -1,0 +1,82 @@
+/* AddEntidadForm Styles */
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+  .top-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    button {
+      margin-left: -10px;
+      background-color: transparent;
+      padding-left: 0;
+      width: 50px;
+      color: #0d3048;
+      &:hover {
+        background-color: transparent;
+      }
+    }
+    h2 {
+      text-align: center;
+      color: #0d3048;
+      font-weight: bold;
+      margin: 0;
+      font-size: 20px;
+    }
+  }
+  .create-top-info{
+    @extend .top-info;
+    justify-content: flex-end;
+  }
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #0d3048;
+  }
+}
+
+.form-container input,
+.form-container select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.form-container input:focus,
+.form-container select:focus {
+  border-color: #0d3048;
+  outline: none;
+}
+
+.form-container .error {
+  color: red;
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
+
+.form-container button {
+  width: 100%;
+  padding: 12px;
+  background-color: #0d3048;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-container button:disabled {
+  background-color: grey;
+  cursor: not-allowed;
+}
+
+.form-container button:hover {
+  background-color: #092438;
+}

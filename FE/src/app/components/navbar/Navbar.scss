@@ -1,0 +1,22 @@
+.navbar {
+  padding: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  h1 {
+    font-weight: bold;
+    color: #fff;
+    font-family: "Saira", sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+  }
+
+  button {
+    color: rgb(var(--primary-color));
+    background-color: #fff;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: "Saira", sans-serif;
+    border-radius: 30px;
+  }
+}
