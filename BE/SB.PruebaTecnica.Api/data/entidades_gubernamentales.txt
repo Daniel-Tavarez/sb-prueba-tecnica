@@ -1,33 +1,32 @@
-1,Ministerio de Economía,ME,Publica,Primaveral villa mella,8092921257,l.comdanieltavarezd6@gmail.com
+1,Ministerio de Economía,ME,Privada,Primaveral villa mella,8092921257,l.comdanieltavarezd6@gmail.com
 2,Ministerio de Hacienda,MH,Publica,Villa Mella,8092921257,l.comdanieltavarezd6@gmail.com
 3,Ministerio de Administración Pública,MAP,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
 4,Ministerio de Agricultura,MAG,Publica,Villa Mella,8092921257,l.comdanieltavarezd6@gmail.com
 5,Ministerio de Salud Pública y Asistencia Social,MSPAS,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
-6,Ministerio de Relaciones Exteriores,MIREX,Publica,Calle Ejemplo 103, Santo Domingo,8091234572
-7,Ministerio de Trabajo,MT,Publica,Calle Ejemplo 104, Santo Domingo,8091234573
-8,Ministerio de Turismo,MITUR,Publica,Calle Ejemplo 105, Santo Domingo,8091234574
-9,Ministerio de Educación,MINERD,Publica,Calle Ejemplo 106, Santo Domingo,8091234575
-10,Ministerio de Medio Ambiente,MMA,Publica,Calle Ejemplo 107, Santo Domingo,8091234576
-11,Ministerio de Industria y Comercio,MIC,Publica,Calle Ejemplo 108, Santo Domingo,8091234577
-12,Ministerio de la Mujer,MM,Publica,Calle Ejemplo 109, Santo Domingo,8091234578
-13,Ministerio de Deportes, Educación Física y Recreación,Publica,Publica,Calle Ejemplo 110, Santo Domingo
-14,Ministerio de Cultura,MC,Publica,Calle Ejemplo 111, Santo Domingo,8091234580
-15,Consejo Nacional de Competitividad,CNC,Publica,Calle Ejemplo 112, Santo Domingo,8091234581
-16,Consejo Nacional de la Reforma del Estado,CNRE,Publica,Calle Ejemplo 113, Santo Domingo,8091234582
-17,Federación Dominicana de Municipios,FEDOMU,Publica,Calle Ejemplo 114, Santo Domingo,8091234583
-18,Centro de Exportación e Inversiones,CEI-RD,Publica,Calle Ejemplo 115, Santo Domingo,8091234584
-19,Sistema Único de Beneficiarios,SIUBEN,Publica,Calle Ejemplo 116, Santo Domingo,8091234585
-20,Oficina Nacional de Estadística,ONE,Publica,Calle Ejemplo 117, Santo Domingo,8091234586
-21,Instituto de Innovación en Biotecnología,IIBI,Publica,Calle Ejemplo 118, Santo Domingo,8091234587
-22,Fondo de Promoción a las Iniciativas de la Comunidad,PROCOMUNIDAD,Publica,Calle Ejemplo 119, Santo Domingo,8091234588
-23,Dirección General de Desarrollo Fronterizo,DGDF,Publica,Calle Ejemplo 120, Santo Domingo,8091234589
-24,Dirección General de Desarrollo de la Comunidad,DGDC,Publica,Calle Ejemplo 121, Santo Domingo,8091234590
-25,Consejo Nacional de Discapacidad,CONADIS,Publica,Calle Ejemplo 122, Santo Domingo,8091234591
-26,Consejo Nacional de la Persona Envejeciente,CONAPE,Publica,Calle Ejemplo 123, Santo Domingo,8091234592
-27,Consejo Nacional de Población y Familia,CONAPOFA,Publica,Calle Ejemplo 124, Santo Domingo,8091234593
-28,Instituto Nacional de Formación técnico Profesional,INFOTEP,Publica,Calle Ejemplo 125, Santo Domingo,8091234594
-29,Instituto Dominicano de Seguros Sociales,IDSS,Publica,Calle Ejemplo 126, Santo Domingo,8091234595
-30,Universidad Autónoma de Santo Domingo,UASD,Publica,Calle Ejemplo 127, Santo Domingo,8091234596
-31,Instituto Tecnológico de las Américas,ITLA,Publica,Calle Ejemplo 128, Santo Domingo,8091234597
-32,Dirección General de Comunidad Digna,DGCD,Publica,Calle Ejemplo 129, Santo Domingo,8091234598
-33,Instituto de Estabilización de Precios,INESPRE,Publica,Calle Ejemplo 130,(809)-123-4599,daniel@gmail.comssss
+6,Ministerio de Relaciones Exteriores,MIREX,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+7,Ministerio de Trabajo,MT,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+8,Ministerio de Turismo,MITUR,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+9,Ministerio de Educación,MINERD,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+10,Ministerio de Medio Ambiente,MMA,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+11,Ministerio de Industria y Comercio,MIC,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+12,Ministerio de la Mujer,MM,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+13,Ministerio de Deportes, ED,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+14,Ministerio de Cultura,MC,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+15,Consejo Nacional de Competitividad,CNC,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+16,Consejo Nacional de la Reforma del Estado,CNRE,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+17,Federación Dominicana de Municipios,FEDOMU,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+18,Centro de Exportación e Inversiones,CEI-RD,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+19,Sistema Único de Beneficiarios,SIUBEN,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+20,Oficina Nacional de Estadística,ONE,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+21,Instituto de Innovación en Biotecnología,IIBI,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+22,Fondo de Promoción a las Iniciativas de la Comunidad,PROC,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+23,Dirección General de Desarrollo Fronterizo,DGDF,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+24,Dirección General de Desarrollo de la Comunidad,DGDC,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+25,Consejo Nacional de Discapacidad,CONADIS,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+26,Consejo Nacional de la Persona Envejeciente,CONAPE,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+27,Consejo Nacional de Población y Familia,CONAPOFA,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+28,Instituto Nacional de Formación técnico Profesional,INFOTEP,Privada,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+29,Instituto Dominicano de Seguros Sociales,IDSS,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+30,Universidad Autónoma de Santo Domingo,UASD,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+31,Instituto Tecnológico de las Américas,ITLA,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
+32,Dirección General de Comunidad Digna,DGCD,Publica,Villa Mella,(809)-292-1257,l.comdanieltavarezd6@gmail.com
