@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj",
       "projectName": "SB.PruebaTecnica.Infrastructure",
-      "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -151,8 +151,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Domain\\SB.PruebaTecnica.Domain.csproj": {
-              "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Domain\\SB.PruebaTecnica.Domain.csproj"
+            "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Domain\\SB.PruebaTecnica.Domain.csproj": {
+              "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Domain\\SB.PruebaTecnica.Domain.csproj"
             }
           }
         }

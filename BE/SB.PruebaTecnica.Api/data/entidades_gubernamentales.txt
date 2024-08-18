@@ -30,4 +30,4 @@
 30,Universidad Autónoma de Santo Domingo,UASD,Publica,Calle Ejemplo 127, Santo Domingo,8091234596
 31,Instituto Tecnológico de las Américas,ITLA,Publica,Calle Ejemplo 128, Santo Domingo,8091234597
 32,Dirección General de Comunidad Digna,DGCD,Publica,Calle Ejemplo 129, Santo Domingo,8091234598
-33,Instituto de Estabilización de Precios,INESPRE,Publica,Calle Ejemplo 130,(809)-123-4599,daniel@gmail.com
+33,Instituto de Estabilización de Precios,INESPRE,Publica,Calle Ejemplo 130,(809)-123-4599,daniel@gmail.comssss

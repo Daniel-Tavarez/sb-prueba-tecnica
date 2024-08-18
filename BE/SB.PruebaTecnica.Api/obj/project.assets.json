@@ -2359,11 +2359,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Api\\SB.PruebaTecnica.Api.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Api\\SB.PruebaTecnica.Api.csproj",
       "projectName": "SB.PruebaTecnica.Api",
-      "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Api\\SB.PruebaTecnica.Api.csproj",
+      "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Api\\SB.PruebaTecnica.Api.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Api\\obj\\",
+      "outputPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2382,11 +2382,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Application\\SB.PruebaTecnica.Application.csproj": {
-              "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Application\\SB.PruebaTecnica.Application.csproj"
+            "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Application\\SB.PruebaTecnica.Application.csproj": {
+              "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Application\\SB.PruebaTecnica.Application.csproj"
             },
-            "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj"
+            "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj"
             }
           }
         }

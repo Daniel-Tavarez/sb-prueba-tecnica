@@ -1,4 +1,4 @@
-// File: C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\FE\src\app\pages\create-record\page.tsx
+// File: C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba-tecnica\FE\src\app\pages\create-record\page.tsx
 import * as entry from '../../../../../src/app/pages/create-record/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

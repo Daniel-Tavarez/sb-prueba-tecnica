@@ -1,7 +1,7 @@
 {
-  "/pages/create-record/page": "app/pages/create-record/page.js",
   "/page": "app/page.js",
   "/pages/search/page": "app/pages/search/page.js",
-  "/pages/login/page": "app/pages/login/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/pages/create-record/page": "app/pages/create-record/page.js",
+  "/pages/login/page": "app/pages/login/page.js"
 }

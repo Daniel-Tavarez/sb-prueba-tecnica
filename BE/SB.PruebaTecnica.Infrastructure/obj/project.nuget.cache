@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lpr6axgubaI=",
+  "dgSpecHash": "cyO3xSvSuJw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Prueba Técnica SB\\sb-prueba-tecnica\\BE\\SB.PruebaTecnica.Infrastructure\\SB.PruebaTecnica.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"

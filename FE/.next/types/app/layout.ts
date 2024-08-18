@@ -1,4 +1,4 @@
-// File: C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\FE\src\app\layout.tsx
+// File: C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba-tecnica\FE\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
