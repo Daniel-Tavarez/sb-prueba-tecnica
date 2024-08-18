@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5yaQyY9xPBNd9XgI9Z2feTXE/l9afn6BrWoWEYun2rY=",
+  "Source": "SB.PruebaTecnica.Api",
+  "BasePath": "_content/SB.PruebaTecnica.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

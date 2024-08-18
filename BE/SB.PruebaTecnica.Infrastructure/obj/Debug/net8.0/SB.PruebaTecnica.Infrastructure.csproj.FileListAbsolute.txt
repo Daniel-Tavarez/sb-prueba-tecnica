@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.PruebaTecnica.Infrastructure.deps.json
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.PruebaTecnica.Infrastructure.dll
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.PruebaTecnica.Infrastructure.pdb
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.PruebaTecnica.Domain.dll
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.PruebaTecnica.Domain.pdb
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.PruebaTecnica.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.PruebaTecnica.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.PruebaTecnica.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.PruebaTecnica.Infrastructure.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.PruebaTecnica.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.PruebaTecnica.Infrastructure.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.Prueb.8B5724AE.Up2Date
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.PruebaTecnica.Infrastructure.dll
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\refint\SB.PruebaTecnica.Infrastructure.dll
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.PruebaTecnica.Infrastructure.pdb
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Infrastructure\obj\Debug\net8.0\ref\SB.PruebaTecnica.Infrastructure.dll

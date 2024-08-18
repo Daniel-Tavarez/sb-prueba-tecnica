@@ -1,0 +1,12 @@
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\bin\Debug\net8.0\SB.PruebaTecnica.Domain.deps.json
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\bin\Debug\net8.0\SB.PruebaTecnica.Domain.dll
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\bin\Debug\net8.0\SB.PruebaTecnica.Domain.pdb
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\SB.PruebaTecnica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\SB.PruebaTecnica.Domain.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\SB.PruebaTecnica.Domain.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\SB.PruebaTecnica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\SB.PruebaTecnica.Domain.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\SB.PruebaTecnica.Domain.dll
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\refint\SB.PruebaTecnica.Domain.dll
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\SB.PruebaTecnica.Domain.pdb
+C:\Users\danie\OneDrive\Escritorio\Prueba Técnica SB\sb-prueba\BE\SB.PruebaTecnica.Domain\obj\Debug\net8.0\ref\SB.PruebaTecnica.Domain.dll
