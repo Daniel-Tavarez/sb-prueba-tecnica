@@ -28,7 +28,7 @@ instance.interceptors.response.use(
     return response;
   },
   (error) => {
-    if (error.response && error.response.status === 401) {
+    if (error.code == "ERR_NETWORK") {
       if (typeof window !== "undefined") {
         authService.logout();
         window.location.href = "/pages/login";
