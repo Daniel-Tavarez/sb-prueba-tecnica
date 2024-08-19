@@ -5,10 +5,10 @@ class AuthService extends EventEmitter {
   private tokenKey = "authToken";
 
   async login(username: string, password: string): Promise<void> {
-    const response = await baseService.post("/Auth/login", {
+    const response = (await baseService.post("/Auth/login", {
       username,
       password,
-    }) as any;
+    })) as any;
 
     const token = response.token;
     if (token) {
@@ -18,12 +18,18 @@ class AuthService extends EventEmitter {
   }
 
   setToken(token: string): void {
-    localStorage.setItem(this.tokenKey, token);
-    this.emit("authChange", true); // Emit event
+    if (typeof window !== "undefined") {
+      localStorage.setItem(this.tokenKey, token);
+      this.emit("authChange", true); // Emit event
+    }
   }
 
   getToken(): string | null {
-    return localStorage.getItem(this.tokenKey);
+    if (typeof window !== "undefined") {
+      return localStorage.getItem(this.tokenKey);
+    } else {
+      return null;
+    }
   }
 
   isLoggedIn(): boolean {
@@ -31,8 +37,10 @@ class AuthService extends EventEmitter {
   }
 
   logout(): void {
-    localStorage.removeItem(this.tokenKey);
-    this.emit("authChange", false); // Emit event
+    if (typeof window !== "undefined") {
+      localStorage.removeItem(this.tokenKey);
+      this.emit("authChange", false); // Emit event
+    }
   }
 }
 
